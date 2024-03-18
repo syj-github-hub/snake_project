@@ -4,6 +4,7 @@ import GameControl from "./moduls/GameControl";
 
 // const gameControl = new GameControl();
 
+new GameControl();
 
 // const gameControl = new GameControl();
 // setInterval(() => {
